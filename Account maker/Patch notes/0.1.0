@@ -1,0 +1,38 @@
+UPDATE 1.0.0
+
+
+
+♻ Changes:
+
+Renamed "Table drawer" to "Matrix generator"
+
+Now, you should add one space at the beginning when entering your password
+
+
+⚙ New features:
+
+Added credits so that you know who to blame
+
+Added the ability to save multiple passwords if you enable "Passkey"!!
+
+Added a loading screen!
+
+
+⚠ Known issues:
+
+You have to press enter twice in some occasions
+
+
+🔧 Bug fixes:
+
+Fixed CLI missing character problem (By replacing said characters with simpler ones)
+
+
+🖥 DEV NOTES:
+
+Next update will let you choose between a faster CLI or a more familiar GUI :)
+
+
+Sincerely,
+
+ReevTek.
